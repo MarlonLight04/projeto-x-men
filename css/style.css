@@ -22,7 +22,8 @@ body{
 }
 
 .informacoes-personagem{
-    width: 482px;
+    width: 480px;
+    height: 130px;
 }
 
 .personagem-grande{
